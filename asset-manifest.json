@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/commerce-mentor.git/static/css/main.e60859f4.css",
-    "main.js": "/commerce-mentor.git/static/js/main.2f8e9e99.js",
-    "static/media/image-product-2.jpg": "/commerce-mentor.git/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
-    "static/media/image-product-1.jpg": "/commerce-mentor.git/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
-    "static/media/image-product-3.jpg": "/commerce-mentor.git/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
-    "static/media/image-product-4.jpg": "/commerce-mentor.git/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
-    "static/media/logo.svg": "/commerce-mentor.git/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
-    "index.html": "/commerce-mentor.git/index.html",
-    "main.e60859f4.css.map": "/commerce-mentor.git/static/css/main.e60859f4.css.map",
-    "main.2f8e9e99.js.map": "/commerce-mentor.git/static/js/main.2f8e9e99.js.map"
+    "main.css": "/commerce-mentor/static/css/main.e60859f4.css",
+    "main.js": "/commerce-mentor/static/js/main.cbf86816.js",
+    "static/media/image-product-2.jpg": "/commerce-mentor/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
+    "static/media/image-product-1.jpg": "/commerce-mentor/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
+    "static/media/image-product-3.jpg": "/commerce-mentor/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
+    "static/media/image-product-4.jpg": "/commerce-mentor/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
+    "static/media/logo.svg": "/commerce-mentor/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
+    "index.html": "/commerce-mentor/index.html",
+    "main.e60859f4.css.map": "/commerce-mentor/static/css/main.e60859f4.css.map",
+    "main.cbf86816.js.map": "/commerce-mentor/static/js/main.cbf86816.js.map"
   },
   "entrypoints": [
     "static/css/main.e60859f4.css",
-    "static/js/main.2f8e9e99.js"
+    "static/js/main.cbf86816.js"
   ]
 }
